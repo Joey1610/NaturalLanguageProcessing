@@ -9,3 +9,6 @@ from nltk.stem import PorterStemmer
 from nltk.stem import RegexpStemmer
 from nltk.stem import SnowballStemmer
 # nltk.download('all')
+
+#Lemmatization
+from nltk.stem import WordNetLemmatizer
